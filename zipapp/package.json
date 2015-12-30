@@ -1,0 +1,19 @@
+{
+  "name": "zipapp",
+  "version": "1.0.0",
+  "description": "This is a sample zipcode app",
+  "main": "zipcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "zipcode" : "0.1.1"
+  },
+  "keywords": [
+    "zipcode",
+    "zipapp",
+    "zip"
+  ],
+  "author": "Ming Jia",
+  "license": "MIT"
+}
