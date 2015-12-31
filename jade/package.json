@@ -1,0 +1,21 @@
+{
+  "name": "jadeapp",
+  "version": "0.0.1",
+  "description": "Express projects with jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies" : {
+    "express" : "*",
+    "jade" : "*"
+  },
+
+  "keywords": [
+    "express",
+    "jade"
+  ],
+  "author": "Ming Jia",
+  "license": "MIT"
+}
