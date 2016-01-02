@@ -8,8 +8,11 @@
   },
 
   "dependencies" : {
-    "express" : "*",
-    "jade" : "*"
+    "express" : "3.0.0",
+    "jade" : "*",
+    "nib" : "*",
+    "mongodb" : "*",
+    "monk" : "*"
   },
 
   "keywords": [

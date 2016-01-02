@@ -2,15 +2,22 @@ extend layout
 block content
 	h1 #{title}
 	p. 
-		WTF----WTF
-	p.
-		WTF_WTF_WTF_WTF
+		Welcome to the Node.js Demo Registration App.
 
-block sidebar
-	.block
-		h1 Right Sidebar
+	ul.featurelist
+		li.
+			Express Framework
+		li.
+			Jade Template Engine
+		li.
+			Stylus CSS Generator
+		li.
+			Nib
+		li.
+			MongoDB
+		li.
+			Monk
+	div.userlistlink
 		p.
-			-----WTF-----
-		br
-		.readmore
-			a(href="http://google.com") Read More
+			To see all registered users, <a href='/userlist'>click here</a>
+
